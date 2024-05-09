@@ -1,0 +1,190 @@
+CURRICULUM VITAE 
+
+Nome: Hamilton Gomes Freire Junior
+Idade: 52 anos
+Belo Horizonte - MG | cep 30411-265
+Celular: (31) 98204.8503
+E-mail: hamiltonfreire@gmail.com
+
+
+www.linkedin.com/in/hfreirejr/
+
+
+I – Formação Acadêmica
+
+- Tecnólogo em Banco de Dados / Faculdade Pitágoras / Conclusão 2013
+- Técnico em Processamento de dados / UTRAMIG / Fundação de Educação para Trabalho de MG / 1998
+
+II – Idiomas: Português: Fluente |  Inglês: B2 - Avançado | Espanhol: Básico
+
+III - Qualificação
+
+Profissional em arquitetura de nuvem e virtualização, com experiência em projetar, implementar e otimizar infraestruturas cloud, suporte ao cliente em todos os níveis em empresas de TI de diversos segmentos. 
+Banco de dados, ETL, BI, sistemas Linux, redes e servidores, estão entre meus conhecimentos, além de sistemas legados diversos, sempre orientado à resultados. Me dedico a fornecer soluções em arquitetura, desempenho e segurança, seguindo as melhores práticas, padrões e processos.
+
+IV-  Experiência
+
+
+Accenture LATAM (AABG Team - Accenture AWS Business Group)
+
+
+Cidade: Belo Horizonte (Remoto)
+Segmento: Tecnologia
+Data de Início: 09/2023 Data de Término: 02/2024
+Cargo: Analista SysOps / Arquiteto IaaS, SaaS, PaaS
+Atribuições: Suporte à projetos AWS, criação e configuração de recursos IaaS, SaaS, PaaS diversos com destaque para design de redes, segurança, armazenamento, computação e integração de sistemas. automação, resolução de ocorrências em contas diversas e provas de conceito.
+
+K2 Partnering Solutions 
+
+
+Cidade: Belo Horizonte (Remoto)
+Segmento: Tecnologia
+Data de Início: 03/2022 Data de Término: 12/2022
+Cargo: Analista SysOps
+Atribuições: Implementação, gerenciamento e operação de workload utilizando ferramentas AWS, implementação de controles de segurança e requisitos de conformidade em cloud. Ferramentas: Java, Automic Scheduler, banco de dados, dentre outras
+
+
+DATABIT
+
+
+Cidade: Belo Horizonte
+Segmento: Tecnologia
+Data de Início: 10/2020 Data de Término: 03/2021
+Cargo: Analista de BI 
+Atribuições: Responsável pelo suporte, implantação, estrutura e publicações em Power BI, Gateway, Report Server, Report Builder para clientes outsourcing.
+
+ULTRACAR
+
+
+Cidade: Belo Horizonte
+Segmento: Tecnologia
+Data de Início: 11/2019 Data de Término: 06/2020
+Cargo: Analista de Suporte
+Atribuições: Analista de suporte a sistema comercial legado WEB e WIndows, provendo assistência ao cliente externo com ferramentas de recursos diversos seja remoto ou in loco.
+
+
+Hospital SOCOR
+
+
+Cidade: Belo Horizonte
+Segmento: Tecnologia
+Data de Início: 06/2019 Data de Término: 08/2019
+Cargo: Analista de TI
+Atribuições: Analista técnico a sistemas diversos, Hospitale, MVSoul, SAS, Engeman, Office 365,PaperCut, SQLServer, File Server, Hiper-v, Linux, AD, MSAzure, backups, controles de acesso, equipamentos diversos, etc.
+
+Selênio.ti
+
+
+Cidade: Belo Horizonte
+Segmento: Tecnologia
+Data de Início: 01/2015 Data de Término: 05/2019
+Cargo: Analista de TI
+Atribuições: Prestar, planejar, organizar, controlar e assessorar as organizações nas mais diversas áreas de consultoria e ações técnicas (Clientes particulares e comerciais, sites, redes e sistemas).
+
+
+I2 Software
+
+Cidade: Belo Horizonte
+Segmento: Tecnologia
+Data de Início: 11/2011 Data de Término: 10/2014
+Cargo: Analista de Suporte Linux – Servidores Cloud Computing
+Atribuições: Manter sistemas e servidores de comunicação, redes, banco de dados (MySql/SQLServer), transmissão de dados e voz. Identificando e resolvendo problemas, realizando modificações nas instruções de operação em vigor, adaptando e provendo suporte técnico ao cliente (Clientes: Drogaria Santa Marta, Itambé, Drogafarma dentre outros)
+
+Linear Sistemas
+
+Cidade: Belo Horizonte
+Segmento: Tecnologia
+Data de Início: 11/2010 Data de Término: 06/2011
+Cargo: Quality Assurance
+Atribuições: Analisar e corrigir bug’s encontrados no sistema “Linear” ou em problemas relacionados ao banco de dados nativo, importação de dados em plataformas diversas, administração do processo de disponibilização do sistema aos clientes. Visual Basic 6.0, SQL Server, VNC, LogMein, Hamachi, Front, Heidi etc. (Software comercial, caixa em supermercados, padarias, etc.).
+
+
+Instituto Mário Penna
+
+Cidade: Belo Horizonte
+Segmento: Tecnologia
+Data de Início: 12/2009 Data de Término: 10/2010
+Cargo: Líder de Equipe
+Atribuições: Coordenação da equipe de TI ao atendimento aos 1.500 clientes internos da instituição em 600 estações de 3 edificações, mantendo todos os sistemas e redes em funcionamento. Principais ferramentas: Proxy, MS Forefront, SQL Server, Windows Server, ARCserver, Blade Server (virtualização com Hyper-V, VMWare, Oracle VM VirtualBox)
+
+CH & TCR
+
+Cidade: Belo Horizonte
+Segmento: Tecnologia
+Data de Início: 05/2008 Data de Término: 04/2009
+Cargo: Analista de Implantação (MG, ES e SP)
+Atribuições: Analista implantação de softwares para controle de hardware, atendimento ao cliente via acesso remoto ou local efetuando manutenção de BD SQL Server e Oracle, geração de bases além de importação e exportação de dados, Query’s, implantação de sistemas cliente/servidor e sistemas web.
+
+Selenio.TI
+
+Cidade: Belo Horizonte
+Segmento: Tecnologia
+Data de Início: 09/2006 Data de Término: 04/2008
+Cargo: Analista de TI
+Atribuições: Atividades técnicas e administrativas
+
+MD2 Consultoria
+
+Cidade: Belo Horizonte – MG
+Segmento: Tecnologia
+Data de Início: 04/2002 Data de Término: 08/2006
+Cargo: Analista de Implementação em BI e ETL (MG, GO, RJ, SP, PA)
+Atribuições: Analista de implementação e suporte a cliente externo com a utilização de ferramentas de BI – (IBM DataStage WEBSphere), SQL Server (Clientes: Carrefour, Itaú, TIM, Banco de Boston, Copel dentre outros)
+
+V – Conhecimentos Específicos
+
+SQL Server, MySQL, Windows Server, Oracle, ARCserver, Blade Server, Hyper-V, VMWare, VirtualBox, Oracle VM, IBM WEBSphere, NatQuery, Data Stage, Power BI, Report Builder, NatCDC, DOS, Microsoft, Azure, Sagent, AWS, HTML, PHP, Sistemas GNU/Linux, Iptables, Squid/SARG, SAMBA/NFS, LDAP, FTP, SSH, Postfix, Roters, VPN, Hamachi, Proxy, Forefront, servidores, rede e transmissão.
+
+
+
+VI - Cursos complementares (Certificados no Linkedin)
+
+
+- Fundamentos de Hardware – PW Informática / 2000 / 50h
+- Fundamentos da Gestão de TI – Fundação Getúlio Vargas / 2012 / EAD/ 15h
+- Linux Hands On - AS Consultoria & Treinamentos / 2014 / 80h
+- Introdução à Cibersegurança – CISCO / 2020 / EAD / 15h
+- Competências profis. emocionais e tecnológicas para tempos de mudança – PUCRS /2020 /EAD / 3h
+- Intensivo Lei Geral de Proteção de Dados – Mariana de Toledo / 2020 EAD / 8h
+- Curso Básico Power BI – DATAB / 2020 EAD / 10h
+- Microsoft Azure Fundamentals (AZ-900) – Ka Solutions / 2022 EAD / 8h
+- AWS Cloud Practitioner Essentials – Ka Solutions / 2022 EAD / 8h
+- Administração de Sistemas em Nuvem - Descomplica Faculdade Digital / 2022 EAD / 480h
+- AWS Week – Ka Solutions / 2022 EAD / 15h
+- AWS cloud practitioner | Securing your AWS cloud | Fundamentals of a modern data strategy on AWS | 
+  Machine Learning basics | Strategies for large-scale migrations - Ka Solutions / 2022 EAD / 8h
+- AWS Academy Cloud Fundations - AWS / 2022 EAD / 20h
+- AWS Cloud Practitioner Essentials - AWS / 2023 EAD / 8h
+- AWS Partner: Cloud Economics Accreditation - AWS / 2023 EAD / 8h
+- AWS Partner: Accreditation (Technical) - AWS / 2023 EAD / 8h
+- AWS Certified Cloud Practitioner  - AWS / 2023 EAD / 8h
+- AWS Academy Graduate / AWS Academy Cloud Foundations - AWS / 2023 EAD / 8h
+- API Security – Skillsoft / 2023 EAD / 8h
+- Git e Github do zero ao avançado – Udemy / 2023 EAD / 6h
+- AWS Partner - Tailored Intermediate – AWS / 2023 EAD / 4h
+- 98002 Architecting on AWS - Ka Solutions / 2022 EAD / 8h
+- AWS Partner Advanced AWS Well-Architected Best Practices - AWS / 2023 EAD / 8h
+- AWS Partner: Sales Accreditation (Business) – AWS  / 2023 EAD / 8h
+- AWS Partner: Cloud Economics Accreditation – AWS  / 2023 EAD / 8h
+- AWS Partner: Accreditation (Technical) – AWS  / 2023 EAD / 8h
+- AWS Partner - Tailored Intermediate  – AWS  / 2023 EAD / 8h
+- AWS Developer Associate: AWS CloudFormation  – AWS  / 2023 EAD / 8h
+- AWS Certified Solutions Architect | Associate (SAA-C03)  – AWS  / 2023 EAD / 16h
+- Mainframe Modernization Patterns and Best Practices  – AWS  / 2023 EAD / 8h
+- Getting Started with AWS Mainframe Modernization Service  – AWS  / 2023 EAD / 8h
+- Getting Started with AWS Mainframe Modernization Refactor with AWS Blu Age  – AWS  / 2023 EAD / 8h
+- Approach to Mainframe Migration and Modernization – AWS  / 2023 EAD / 8h
+- Mainframe Modernization Proof of Concept Scoping with AWS Blu Insights – AWS  / 2023 EAD / 8h
+- AWS Mainframe Modernization Automated Refactor Transformation Center – AWS  / 2023 EAD / 8h
+- Preparação para o exame ACSAA - AWS Certified Solutions Architect - Ka Solutions / 2023 EAD / 8h
+- AWS Partner: Machine Learning on AWS (Technical) – AWS  / 2023 EAD / 8h
+- Getting Started on Prompt Engineering with Generative AI - Pluralsight.com  / 2023 EAD / 8h
+- Prompt Engineering Best Practices - Pluralsight.com  / 2023 EAD / 4h
+- Prompt Engineering for Improved Performance - Pluralsight.com  / 2023 EAD / 4h
+- The OpenAI API - Pluralsight.com  / 2023 EAD / 8h
+
+● Entre 1998 e 2001 e atuando com professor de Lógica de programação, Visual Basic, Delphi, Front
+   Page, Dreamweaver em instituições como Sesi-Senai, Multimicro Info, PW Info.
+
+● Estágio IPSEMG 1997 - Desenvolvimento e implantação, sistema odontológico - Pascal
+
