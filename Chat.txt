@@ -1,0 +1,22 @@
+
+YouTube
+expand_more
+Criando Chatbots no Google AI Studio:
+Vídeos:
+
+💬 Typebot + Gemini: chatbot com a inteligência artificial do Google: https://es.wiktionary.org/wiki/removido (15m58s) - Este vídeo da Vamos Automatizar demonstra como criar um chatbot usando o Typebot e a inteligência artificial Gemini do Google.
+Como Criar um ChatBot Profissional totalmente personalizável: https://es.wiktionary.org/wiki/removido (9m18s) - Neste vídeo do Luis Carvalho - Musaranho Automações, você aprende a criar um chatbot profissional para WhatsApp usando diversas ferramentas.
+Como usar o Bard (Inteligência Artificial do Google) no Brasil!: https://es.wiktionary.org/wiki/removido (9m12s) - O CanalJMS apresenta neste vídeo como utilizar o Bard, a inteligência artificial do Google, no Brasil.
+Documentos:
+
+Criando Chatbots no Google Cloud: https://developers.google.com/learn/topics/chatbots - Este site do Google Developers oferece guias passo a passo para criar chatbots usando Dialogflow e outros serviços do Google Cloud.
+Como Criar seu ChatBot Personalizado seguindo Seis Passos e com menos de 30 Linhas de Código: https://www.dio.me/articles/como-criar-seu-chatbot-personalizado-em-seis-passos-e-menos-de-30-linhas-de-codigo - Este artigo da DIO detalha como criar um chatbot personalizado em seis etapas simples, com menos de 30 linhas de código.
+Tutoriais:
+
+TUTORIAL COMPLETO: COMO USAR O GEMINI A NOVA INTELIGÊNCIA ARTIFICIAL DO GOOGLE - GUIA PASSO A PASSO: https://es.wiktionary.org/wiki/removido - Este tutorial do Prof Julio Cesar Passos apresenta o Gemini, a nova inteligência artificial do Google, e demonstra como usá-la passo a passo.
+Observações:
+
+O Google AI Studio oferece diversas ferramentas para criar chatbots, como o Typebot e o Gemini.
+Você também pode usar outras ferramentas, como Dialogflow e Watson Assistant, para criar chatbots mais complexos.
+É importante escolher a ferramenta certa para suas necessidades e nível de conhecimento.
+Espero que esses recursos te ajudem a criar seu chatbot no Google AI Studio!
